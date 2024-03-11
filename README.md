@@ -1,6 +1,7 @@
 Album Store
 
 Introduction
+
 The Go Album Store project is a simple web application for managing albums. It provides CRUD (Create, Read, Update, Delete) operations for albums, a RESTful API using Gorilla Mux, and PostgreSQL as the backend database.
 
 API Documentation
