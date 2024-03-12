@@ -25,7 +25,7 @@ DELETE /albums/{id}: Delete an album by ID.
 DB Structure
 
 
-Table restaurants {
+Table albums {
   
   id bigserial [primary key]
   
